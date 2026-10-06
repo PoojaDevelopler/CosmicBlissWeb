@@ -104,26 +104,17 @@ The platform also supports business operations including **product management, i
 ---
 ## 📸 Website Preview
 
-### 🏡 Home Page
+| 🏡 Home Page | 💎 Product Catalogue |
+|---|---|
+| <img width="350" alt="Crystal Bliss Home Page" src="https://github.com/user-attachments/assets/b9dce988-e489-45f0-94b2-e7dfe95bf55d" /> | <img width="350" alt="Crystal Bliss Product Catalogue" src="https://github.com/user-attachments/assets/d791e7c9-81f3-46a8-8b7b-5cd7982ea1f0" /> |
 
-<img width="350" alt="Crystal Bliss Home Page" src="https://github.com/user-attachments/assets/b9dce988-e489-45f0-94b2-e7dfe95bf55d" />
+| 🔮 Product Details | 🛍️ Checkout |
+|---|---|
+| <img width="350" alt="Crystal Bliss Product Details" src="https://github.com/user-attachments/assets/e587d789-d5a1-4b53-ac2a-d5c21dd13031" /> | <img width="350" alt="Crystal Bliss Checkout" src="https://github.com/user-attachments/assets/06f9b59f-79f4-4d7f-9f1f-00435c402393" /> |
 
-### 💎 Product Catalogue
-
-<img width="350" alt="Crystal Bliss Product Catalogue" src="https://github.com/user-attachments/assets/d791e7c9-81f3-46a8-8b7b-5cd7982ea1f0" />
-
-### 🔮 Product Details
-
-<img width="350" alt="Crystal Bliss Product Details" src="https://github.com/user-attachments/assets/e587d789-d5a1-4b53-ac2a-d5c21dd13031" />
-
-### 🛍️ Checkout
-
-<img width="350" alt="Crystal Bliss Checkout" src="https://github.com/user-attachments/assets/06f9b59f-79f4-4d7f-9f1f-00435c402393" />
-
-### 📦 Order Tracking
-
-<img width="350" alt="Crystal Bliss Order Tracking" src="https://github.com/user-attachments/assets/9feb740c-ebe9-4552-9f31-8ca447fe4d6b" />
-
+| 📦 Order Tracking |
+|---|
+| <img width="350" alt="Crystal Bliss Order Tracking" src="https://github.com/user-attachments/assets/9feb740c-ebe9-4552-9f31-8ca447fe4d6b" /> |
 ---
 
 ## 🎥 Website Walkthrough
